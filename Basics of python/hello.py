@@ -1,2 +1,1 @@
-print("hello World")
-print("Hello Vaishnavi")
+# Hello i am omkar 
