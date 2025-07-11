@@ -1,7 +1,6 @@
 # a = 12
 # b = 45
 # c = 56
-
 # average = (a+b+c)/3
 # print(average)
 
@@ -13,4 +12,5 @@ def avg():
 
     average = (a + b +c)/3
     print(average)
-    
+
+avg()  # Function call 
