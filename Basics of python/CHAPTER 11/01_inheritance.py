@@ -20,3 +20,7 @@ a = Employee()
 b = Programmer()
 
 print(a.company, b.company)
+print(a.company, b.company)
+print(a.company, b.company)
+print(a.company, b.company)
+print(a.company, b.company)
